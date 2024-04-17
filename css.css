@@ -28,7 +28,7 @@ body{
     }
 }
 .quiz-app{
-    background-color: #f1f1f1;
+    background-color: #afe9e98f;
     margin: 20px auto;
     padding: 15px;
 }
@@ -55,11 +55,11 @@ body{
     border-radius: 0 0 4px 4px;
 }
 .quiz-app .answers-area .answer{
-    background-color: #f9f9f9;
+    background-color: #dbf5f588;
     padding: 15px;
 }
 .quiz-app .answers-area .answer:not(:last-child){
-    border-bottom: 1px solid #dfdfdf;
+    border-bottom: 1px solid #406e6e8f;
 }
 .quiz-app .answers-area .answer input[type="radio"]:checked + label{
     color: #0075ff;
@@ -74,7 +74,7 @@ body{
     top: -1px;
 }
 .quiz-app .submit-button{
-    background-color: #0075ff;
+    background-color: #08b4b4;
     padding: 12px 15px;
     border: none;
     border-radius: 5px;
@@ -105,7 +105,7 @@ body{
     margin-right: 5px;
 }
 .quiz-app .bullets .spans .on{
-    background-color: #0075ff;
+    background-color: #08b4b4;
 }
 .results{
     padding: 20px;
